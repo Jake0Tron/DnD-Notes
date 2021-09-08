@@ -1,5 +1,5 @@
  Session 4 - Aug 11 2021
-
+https://www.worldanvil.com/epic/sVS2aurN2P8RbA4y0SzI4pp1HRWP6z/report/c2965f74-ee9c-4fbf-a6fd-bd3ad739046b?preview=true
   
 
  # Recently Dispelled Zombies, now what?

@@ -1,4 +1,6 @@
 # Session 2 - July 21 2021
+https://www.worldanvil.com/epic/sVS2aurN2P8RbA4y0SzI4pp1HRWP6z/report/1cad3bc3-3513-4226-b964-9f87452c66b3?preview=true
+
 
   ## Post-battle
   - Confronted by a local guard

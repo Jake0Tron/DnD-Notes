@@ -1,4 +1,5 @@
 # Session 3 - Aug 4 2021 
+https://www.worldanvil.com/epic/sVS2aurN2P8RbA4y0SzI4pp1HRWP6z/report/fbf44a63-723b-4d28-81ac-ef834cdd095d?preview=true
 
   ## What a night!
   - I woke up in Hetz's room, he's up praying

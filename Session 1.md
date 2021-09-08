@@ -1,4 +1,6 @@
 # Session 1 - July 14 2021
+https://www.worldanvil.com/epic/sVS2aurN2P8RbA4y0SzI4pp1HRWP6z/report/576a05a2-5ffe-4634-b31a-abd9f16d2a95?preview=true
+
   ## Strivena
   > Rebellion of mages beginning to uprise
   > 1091 AD

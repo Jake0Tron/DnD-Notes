@@ -1,4 +1,5 @@
 I wasn't here
+https://www.worldanvil.com/epic/sVS2aurN2P8RbA4y0SzI4pp1HRWP6z/report/6a30f2ed-610c-47c0-82ed-487f12368563?preview=true
 
 Tracing steps back to source
 	Found bandit camp
