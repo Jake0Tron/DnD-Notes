@@ -44,6 +44,7 @@ https://www.worldanvil.com/epic/sVS2aurN2P8RbA4y0SzI4pp1HRWP6z/report/1cad3bc3-3
       - turns out it's friendly, Hetz's (Ben's character)'s room 
   <details>
 <summary>Duologue Adventures of {SOME GODLIKE BEING}  Lil' Hex</summary>
+  
 > Hex is not having a good time, world goes black around him... then there's light, inside a large (40ftx20ft) cylindrical room.
 > 
 > decorated with ornate and colorful furniture/cushions
