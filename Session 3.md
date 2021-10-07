@@ -21,8 +21,14 @@ https://www.worldanvil.com/epic/sVS2aurN2P8RbA4y0SzI4pp1HRWP6z/report/fbf44a63-7
                   -  holy shit 2 nat 2's and a nat 20 to make the save
                -  Trap door in the kitchen leads down to cellar
                   -  3 figures huddled down ther
-                     -  human man, woman, and a young girl
+                     -  human man, woman, and a young girl, some scales on her body
                         -  Young Girl, 4-5 years old
+                        -  Growth on one side of her body 
+                          - Scales and such
+                          - 4-5 years old
+                          - wiry messy blonde hair
+                          - black scales down the left side of her face and neck to her fingers
+                          - simple clothes
                            - I told them that I'll keep them safe
                            - **"when I say run, you need to run"**
              - Leave the family, head back to the group
