@@ -129,7 +129,7 @@
 
 ## Lazulia's Lost
 
-- Lazulia looking for the "Knowing Decipels"
+- Lazulia looking for the "Knowing Disciples"
   - Reynora knows of them
     - basically a group of librarians
     - spread through the world
@@ -150,4 +150,47 @@
 - we head East towards Anesdale, a 6 day trip
 - Lazulia and Phaelin kind of make amends
   - Phaelin gets a ring too! (wears it right quick)
-- 
+- Small exchanges, mostly bullshit
+- We should hurry up
+  - lets ride late-ish, set up camp, and leave early tomorrow
+    - the one thing that happens over night...
+      - Phaelin, while trancing:
+        <details>
+
+        <summary>
+          Spooky Trance Battle
+        </summary>
+
+        - Energy seems to come off her rapier
+          - picks it up, her vision zooms out
+        - Everything goes dark
+        - Now she's in a circular stone room, surrounded by stone columns
+          - nothing past the columns, no ceiling
+        - in the center of the room, sword is suspended in the air
+          - wreathed in shadows, spinning 6 feet off the ground
+        - Mage hand try to grab the sword, brings it over
+          - Still shadowy and cool as it gets closer
+            - seems to emit shadows
+            - "lets touch it"
+        - Deep voice:
+          - "You dare..."
+            - ground opens and shadowy beast figure emerges
+              - clad in black armour
+              - rose engraved on the armour, like that on the coffin
+            - ROLL INITIATIVE
+              - it lunges forward, and swings with large black sword
+                - owch
+              - rapier attack! (+1)
+                - wow big ouch with magic rapier (17 total)
+                  - magic bursts, sword is fine
+              - another attempted attack on Phaelin, but no
+              - Phaelin attack!
+                - wow another good poke (34 total)
+              - they're blinded
+                - Phaelin hit for 12
+              - Hex + Attack
+                - Hex surrounds them...
+                - Hit, (58 total) [jesus!]
+                  - That shit hurts
+              - AND WE'RE BACK
+        </details>
