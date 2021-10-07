@@ -126,4 +126,28 @@
   - Mal wants to send him a message
     - Wight is dead, Gold is gone, Give up on the grift
 - Back to the tavern?
+
+## Lazulia's Lost
+
+- Lazulia looking for the "Knowing Decipels"
+  - Reynora knows of them
+    - basically a group of librarians
+    - spread through the world
+    - Major one in Chacron, Aresworth, Anerith, Kathe. (so much sp?)
+      - Obsessed with knowledge, gathering any information they can
+- Lazulia is Looking for answers to where her mind goes
+- hands a platinum ring to Mal
+  - as a fellow person of god, you should have this
+- He accepts, but doesn't wear it (pockets it)
+- She believes we're all good and brought together for a reason
+- To Anerith?
+- Lets try to find supplies and horses to get to Anerith?
+  - 2 carts, 2 horses, and supplies from the inn (cooking etc) and rations
+
+## Anerith Ahoy...?
+
+- We're off!
+- we head East towards Anesdale, a 6 day trip
+- Lazulia and Phaelin kind of make amends
+  - Phaelin gets a ring too! (wears it right quick)
 - 
