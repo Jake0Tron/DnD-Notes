@@ -51,7 +51,7 @@ Session 11 - 2021/10/13
   
 ### Well this is uncomfortable
   - I wake up to a knife to my throat...
-    - LAZULIA?
+    - LAZULIA? (Klysenes)
   - Apparently a man trapped in a woman's body
     - "should be home, ruling my empire, *Thresanis*"
     - I convince him/her to let me go dig through the messenger bag of mail
@@ -65,4 +65,6 @@ Session 11 - 2021/10/13
 - some possibly racist yips
 - some missed shortbow shots from lorge gorth
 - Reynora explodes a good couple goblins
-- 
+- Klysenes gets one too
+- I explode one and run at the HobGoblins
+- Renorya explodes the Devastator
