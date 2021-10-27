@@ -43,11 +43,11 @@
         - Reynora splits off
 
 ## Get that money
-- Dwarven women is still passed out in the square
+- Dwarven woman is still passed out in the square
 - Street kids swarm us again
   - Hetz telepathically pushes them away
     - Finds his pouch open
-      - note: "Woodworkers guild, ask for marnie"
+      - note: "Woodworkers guild, ask for Marnie"
   - Mal gives out coppers
     - so do I
       - 5c each cause why not
