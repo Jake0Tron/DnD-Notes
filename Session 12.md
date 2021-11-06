@@ -43,7 +43,7 @@
                 - try to break into the item shop and fail
             - Head back to copper dagger before collecting rapier from the blacksmith
               - Drinking games (Hex wins, Lazulia passes out)
-              - Mal and Hetz trying to romance some fancy folks (**Furanthur**)
+              - Mal and Hetz trying to romance some fancy folks (**Furantur**)
                 - might have a job for us to do
                   - "the empty hand" was hired and failed (lost drinking game)
                   - Need something "of great importance" stolen
