@@ -11,7 +11,7 @@
   - Looking out over a large city on top of a mountain
   - Some voice starts talking
     -  says "noctlu must be reclaimed"
-    - "find thwantcle"
+    - "find Thoatli"
     - "integral to the nested veil"
       - There was a lot of hissing and words that didn't make sense here
     - "Soda has new goals"
