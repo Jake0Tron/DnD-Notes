@@ -57,7 +57,7 @@
           - offense, defense etc
   - Artisan's tools
   
-#### Around the Market
+#### At the Templar
 
 - head through the market to the arches
   - lets go up to the top of the arches? maybe talk to templars
