@@ -11,7 +11,7 @@
   - Looking out over a large city on top of a mountain
   - Some voice starts talking
     -  says "noctlu must be reclaimed"
-    - "find thwantcle"
+    - "find Thoatli"
     - "integral to the nested veil"
       - There was a lot of hissing and words that didn't make sense here
     - "Soda has new goals"
@@ -57,7 +57,7 @@
           - offense, defense etc
   - Artisan's tools
   
-#### Around the Market
+#### At the Templar
 
 - head through the market to the arches
   - lets go up to the top of the arches? maybe talk to templars
