@@ -10,7 +10,7 @@
   - snakes... hundreds and thousands of snakes, summoned?
   - Looking out over a large city on top of a mountain
   - Some voice starts talking
-    -  says "noctlu must be reclaimed"
+    - says "noctlu must be reclaimed"
     - "find Thoatli"
     - "integral to the nested veil"
       - There was a lot of hissing and words that didn't make sense here
@@ -33,7 +33,7 @@
 
 ### In the city
 
-- small market area, 
+- small market area,
 - guards keeping an eye
 - Item shop and blacksmith there (seen previously)
   - Hetz wants armor repaired, "he'll see what he can do"
@@ -86,13 +86,13 @@
               - I try to act like the receptionist, and fail
               - escape by jumping off the arches and shifting through the crowd to escape the guard
 
-##### Meanwhile...
+##### Meanwhile
 
 - Hetz lingers, and finds the shapeshifter as one of the guards around the market
   - he found my message in the alleyway
 - We head back to the Inn
 
-### Back At the Inn...
+### Back At the Inn
 
 - we're expecting company
 - touch base about the bad time at the guild
@@ -128,7 +128,7 @@
       - Empty Hand insists they can navigate the sewers better than any other
       - no less than a dozen guards
   - What do we want as payment?
-    - documents? payment? 
+    - documents? payment?
   - "now that you've seen our faces, your organization is one that we want to keep track of" (about Fractum Ardentia)
   - Should we trust the Empty hand to navigate the sewers?
     - Mal casts Augury to determine if we trust the Empty Hand
@@ -140,21 +140,19 @@
     - has a device that we can scout with when we get there
   - Let's keep them at arms' length while they lead us through the sewers
     - Hex and Lazulia might join them to help us gain some insight
-  - How will we know you next time we might see you? 
+  - How will we know you next time we might see you?
     - "Hello it is Furantur"
       - hm, no, maybe not
     - take this coin, password is 'saltlick'
       - toss it if you're in trouble
     - we have a coin, password is 'fresh pepper'
   - I'm going to walk him out
-    - handshake... 
+    - handshake...
       - Pete and repeat...
         - "I thought you were dead..."
-**AND SCENE** 
+**AND SCENE**
 
+## **THIS GUY IS PROBABLY MY BROTHER**
 
-# **THIS GUY IS PROBABLY MY BROTHER**
 - have been able to do this since I was a kid
 - grew up shape shifting into locals
-- 
-  - 

@@ -1,51 +1,51 @@
 # Session 14 - 10/11/2021
 
-## At the tavern, ctd. 
+## At the tavern, ctd
 
-  - "I thought you were dead"
-    - that makes two of us, you're not very good at hiding yourself.
-    - Meet me by the stables
-      - vanishes, I'll follow
-        - sneak out and shift into a random as I head to the stable [23 stealth]
-        - help him clear the stalls... [12 inv]
-          - seems clear...
-            - dagger at my throat
-              - how did you know that phrase?
-            - I shift into child me
-              - I should ask you the same thing
-            - He shifts into a pale, featureless face
-              - yeah it's RePeat
-              - We catch up, I guess... 
-            - He's scared about the heist, seems a little more than he anticipated
-              - We'll get each other out, if nobody else
-            - I've got an idea, follow me
-              - we jump up onto roofs
-                - we can see the city
-                  - the arches... ugh
-                - see the market square
-                  - foot traffic and the crowdfolk bustling around
-                - "I wish I could run away from it all"
-                  - runs into an alleyway, I follow
-                  - Kind of a shitty spot
-                - Pulls out a dagger
-                  - I match
-                  - Lets see what you can do...
-                    - throws a dagger at me
-                    - [ It's some kind of training montage ]  
-                      - **I learn uncanny dodge**
-                - Tell empty hand to meet him/us at the docks
-                  - hands me his dagger
-                - He disappears, and we part ways for now
-                  - I hand him mine
+- "I thought you were dead"
+  - that makes two of us, you're not very good at hiding yourself.
+  - Meet me by the stables
+    - vanishes, I'll follow
+      - sneak out and shift into a random as I head to the stable [23 stealth]
+      - help him clear the stalls... [12 inv]
+        - seems clear...
+          - dagger at my throat
+            - how did you know that phrase?
+          - I shift into child me
+            - I should ask you the same thing
+          - He shifts into a pale, featureless face
+            - yeah it's RePeat
+            - We catch up, I guess...
+          - He's scared about the heist, seems a little more than he anticipated
+            - We'll get each other out, if nobody else
+          - I've got an idea, follow me
+            - we jump up onto roofs
+              - we can see the city
+                - the arches... ugh
+              - see the market square
+                - foot traffic and the crowdfolk bustling around
+              - "I wish I could run away from it all"
+                - runs into an alleyway, I follow
+                - Kind of a shitty spot
+              - Pulls out a dagger
+                - I match
+                - Lets see what you can do...
+                  - throws a dagger at me
+                  - [ It's some kind of training montage ]  
+                    - **I learn uncanny dodge**
+              - Tell empty hand to meet him/us at the docks
+                - hands me his dagger
+              - He disappears, and we part ways for now
+                - I hand him mine
 
-## Meanwhile, at the pub...
+## Meanwhile, at the pub
 
 - So uh, what now
 - talking about people's opinions on magic
   - Lazulia obviously doesn't approve
   - Mal trying to clarify that magic goes both ways
     - We're getting dramatic now, aren't we
-- Head out to shop 
+- Head out to shop
   - Meet up at Terathiel's shop
     - Takes us down to his hidden area
     - **Allorim from Kaithe** delivers items
@@ -75,8 +75,8 @@
   - I'm gonna watch for Furantur (RePete) to arrive while others try to eavesdrop
     - I see a homeless guy wearing a canvas sack
       - Salt lick, fresh ground pepper happens
-  - Viksaren leads us down to the sewers 
-    - Mal gives a Vigilant blessing for me 
+  - Viksaren leads us down to the sewers
+    - Mal gives a Vigilant blessing for me
     - Also dark vision for our team, not the empty hand folks
     - To the sewers!
 
@@ -94,7 +94,7 @@
         - 1 Level of stress :|
   - Hear flushing of water
     - poo water
-    - Waterfall from either side 
+    - Waterfall from either side
       - We're going up the waterfall
         - Mal doesn't do it so good and gets some kind of poop all up on him
     - Most of us get up there fine... poor Mal
@@ -119,6 +119,6 @@
         - and he gets pushed in!
   - Zhoe is on the other side of the circle, as if to approach us from the rear
   - Doodie Elemental emerges from the water!
-  - 
+  -
 
 - **Disadvantage on ability checks with int/wis/cha**

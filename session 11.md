@@ -50,8 +50,9 @@ Session 11 - 2021/10/13
   - Reynora hangs outside the camp... and eventually makes it back, Hex didn't really notice her come back
   
 ### Well this is uncomfortable
-  - I wake up to a knife to my throat...
-    - LAZULIA? (Klysenes)
+
+- I wake up to a knife to my throat...
+  - LAZULIA? (Klysenes)
   - Apparently a man trapped in a woman's body
     - "should be home, ruling my empire, *Thresanis*"
     - I convince him/her to let me go dig through the messenger bag of mail
