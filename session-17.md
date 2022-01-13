@@ -110,4 +110,4 @@ I destroyed last week's notes, but we basically went upstairs into the mansion a
       - I was trying to be a lion man but can't be so big
     - Opens a portan in a huge tree and Teleports us into...
 
-## Enerith
+## Anerith
